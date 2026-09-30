@@ -1,4 +1,4 @@
-# BMI Calculator
+# BMI Calculator 
 
 A simple command-line Body Mass Index (BMI) calculator written in Python. It takes a user's weight and height, calculates their BMI and then classifies the result into a standard weight category.
 
